@@ -1,1 +1,1 @@
-include ':sample-app', ':tobangla'
+include ':tobangla'
